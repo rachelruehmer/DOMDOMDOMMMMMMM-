@@ -1,0 +1,20 @@
+.black-square {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: black;
+    color: white;
+    
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.test {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
